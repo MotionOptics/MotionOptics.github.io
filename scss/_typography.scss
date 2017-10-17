@@ -2,7 +2,8 @@
 
 @font-face {
     font-family: 'street_magicregular';
-    src: url('../fonts/street_magic-webfont.woff');
+    src: url('../fonts/street_magic-webfont.woff'),
+         url('../fonts/street_magic-webfont.ttf') format('truetype');
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -162,7 +163,7 @@ strong {
 
 .text-primary {
     color: $white;
-    font-family: 'street_magicregular';
+    font-family: 'street_magicregular', Fallback;
 }
 
 .text-success {
