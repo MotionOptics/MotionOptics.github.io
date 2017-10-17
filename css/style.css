@@ -58,7 +58,7 @@ a {
   font-weight: 700;
   outline: 0 !important; }
   a:hover, a:active, a:focus {
-    color: #19835a;
+    color: #2980b9;
     text-decoration: none; }
 
 p {
@@ -384,11 +384,11 @@ input:focus {
   color: #3498db; }
 
 .btn-link:hover {
-  color: #19835a;
+  color: #2980b9;
   text-decoration: none; }
 
 .btn-link:focus {
-  color: #19835a;
+  color: #2980b9;
   text-decoration: none; }
 
 a.btn {
@@ -434,8 +434,8 @@ a.btn {
 
 .btn-primary-filled:hover {
   color: #fff;
-  background: #19835a;
-  border: 2px solid #19835a; }
+  background: #2980b9;
+  border: 2px solid #2980b9; }
 
 /* / End Primary Button */
 /* Success Button */
@@ -1480,8 +1480,8 @@ a.btn-social {
   color: #fff; }
 
 .btn-primary-filled-nav:hover {
-  background: #19835a;
-  border: 2px solid #19835a; }
+  background: #2980b9;
+  border: 2px solid #2980b9; }
 
 .btn-success-filled-nav {
   background: #1fc55a;
@@ -1744,7 +1744,7 @@ a.btn-social {
 
 .nav.nav-pills a:hover {
   color: #fff;
-  background: #19835a; }
+  background: #2980b9; }
 
 .tab-content {
   padding-top: 30px; }
@@ -2018,12 +2018,12 @@ a.list-group-item .list-group-item-heading, button.list-group-item .list-group-i
   border-color: #147a38; }
 
 .panel-primary {
-  border-color: #19835a; }
+  border-color: #2980b9; }
 
 .panel-primary > .panel-heading {
   color: #fff;
   background-color: #3498db;
-  border-color: #19835a; }
+  border-color: #2980b9; }
 
 .panel-info {
   border-color: #135e77; }
@@ -3421,7 +3421,7 @@ footer .social a {
   color: #3498db; }
 
 .color-footer p a:hover {
-  color: #19835a; }
+  color: #2980b9; }
 
 /* Footer Widgets */
 .light-footer .widget-area {
@@ -3515,7 +3515,7 @@ footer #newsletter .form-control {
   bottom: 20px;
   right: 20px;
   line-height: 25px;
-  border: 2px solid #19835a;
+  border: 2px solid #2980b9;
   border-radius: 50%;
   position: fixed;
   text-align: center;
@@ -3534,14 +3534,14 @@ footer #newsletter .form-control {
   border-radius: 0; }
 
 .scroll-to-top:hover {
-  background: #19835a;
+  background: #2980b9;
   color: #fff;
-  border: 2px solid #19835a; }
+  border: 2px solid #2980b9; }
 
 .scroll-to-top:focus {
-  background: #19835a;
+  background: #2980b9;
   color: #fff;
-  border: 2px solid #19835a; }
+  border: 2px solid #2980b9; }
 
 /* End Scroll to Top */
 /* Media Screens */
