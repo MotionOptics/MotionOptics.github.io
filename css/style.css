@@ -13,6 +13,9 @@ html, body {
   margin: 0; }
 
 /* Typography */
+@font-face {
+  font-family: 'street_magicregular';
+  src: url("../fonts/street_magic-webfont.woff"); }
 h1, h2, h3, h4, h5, h6 {
   color: #373e62;
   font-family: "Josefin Sans", sans-serif;
@@ -144,7 +147,8 @@ strong {
   color: #222; }
 
 .text-primary {
-  color: #1fc585; }
+  color: #fff;
+  font-family: 'street_magicregular'; }
 
 .text-success {
   color: #1fc55a; }
@@ -1160,7 +1164,7 @@ a.btn-social {
   transition: ease-in 0.3s; }
 
 .navbar-brand {
-  color: #ccc !important;
+  color: #fff !important;
   font-size: 20px;
   line-height: 20px;
   font-weight: 700;
@@ -1168,7 +1172,7 @@ a.btn-social {
   padding: 20px 15px; }
 
 .navbar-brand span {
-  color: #1fc585; }
+  color: #fff; }
 
 .navbar-brand > img {
   width: auto;

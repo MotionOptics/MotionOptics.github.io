@@ -1,5 +1,10 @@
 /* Typography */
 
+@font-face {
+    font-family: 'street_magicregular';
+    src: url('../fonts/street_magic-webfont.woff');
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: $title-color;
     font-family: $secondary-font;
@@ -156,7 +161,8 @@ strong {
 }
 
 .text-primary {
-    color: $primary;
+    color: $white;
+    font-family: 'street_magicregular';
 }
 
 .text-success {
